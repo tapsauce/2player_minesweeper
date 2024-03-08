@@ -1,0 +1,40 @@
+.tile{
+	width: 40px;
+	height: 40px;
+	padding: 2px;
+	margin: 2px;
+	background-color: lightgray;
+}
+.tile_hidden{
+	background-color: darkgray;
+}
+.tile0{
+	color: white;
+}
+.tile1{
+	color: blue;
+}
+.tile2{
+	color: green;
+}
+.tile3{
+	color: red;
+}
+.tile4{
+	color: darkblue;
+}
+.tile5{
+	color: darkred;
+}
+.tile6{
+	color: cyan;
+}
+.tile7{
+	color: black;
+}
+.tile8{
+	color: gray;
+}
+.tile9{
+	color: black;
+}
